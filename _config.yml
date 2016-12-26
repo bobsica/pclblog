@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               in the parlance of our time
+#tagline:             or What Do You Do For Recreation?
+url:                 http://bobsica.com
 paginate:            1
 baseurl:             ""
 
@@ -17,16 +17,25 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Bob Sica
+  url:               https://twitter.com/bobsica
+#  email:             markdotto@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+repo:                https://github.com/bobsica/bobsica.github.io
 
-# Gems
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
 gems:
+  - jekyll-redirect-from
   - jekyll-paginate
-  - jekyll-gist
+  - jemoji
+
