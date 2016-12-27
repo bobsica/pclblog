@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               in the parlance of our time
-#tagline:             or What Do You Do For Recreation?
-url:                 http://bobsica.com
+title:               scatterings from the Purple Crow Lidar
+#tagline:             from the Purple Crow Lidar
+url:                 http://purplecrowlidar.ca/blog
 paginate:            1
 baseurl:             ""
 
@@ -18,13 +18,13 @@ sass:
 # About/contact
 author:
   name:              Bob Sica
-  url:               https://twitter.com/bobsica
+  url:               https://twitter.com/purplecrowlidar
 #  email:             markdotto@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-repo:                https://github.com/bobsica/bobsica.github.io
+repo:                https://github.com/bobsica/bobsica.github.io/pclblog
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
