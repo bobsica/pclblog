@@ -3,13 +3,13 @@ layout: pageNC
 title: About
 ---
 
-Welcome to what passes for my fun side. My work side (lidars and university professing) is over at [purplecrowlidar.ca](http://purplecrowlidar.ca).
+Welcome to what passes for my work side. My "fun" side is over at [bobsica.com](http://bobsica.com).
 
 Bob Sica
 <br>
 LdnOnt
 <br>
-26 Dec 2016
+27 Dec 2016
 
 ## Setup
 
