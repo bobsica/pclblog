@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-repo:                https://github.com/bobsica/bobsica.github.io/pclblog
+repo:                https://github.com/bobsica/pclblog
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
