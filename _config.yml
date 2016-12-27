@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               scatterings from the Purple Crow Lidar
 #tagline:             from the Purple Crow Lidar
-url:                 http://purplecrowlidar.ca/blog
+url:                 http://bobsica.github.io/pclblog
 paginate:            1
 baseurl:             ""
 
