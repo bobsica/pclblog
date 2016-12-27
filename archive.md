@@ -1,9 +1,8 @@
 ---
-layout: pageNC
-title: Archive
+layout: page
+title: Archived Posts
+comments: false
 ---
-
-## Blog Posts
 
 Other older posts can still be seen [at an older version of the blog](http://purplecrowlidar.blogspot.ca).
 
