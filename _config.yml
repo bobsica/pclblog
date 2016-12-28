@@ -1,9 +1,11 @@
 # Permalinks
 permalink:           pretty
+#permalink: /pclblog/:year/:month/:day/:title
 
 # Setup
 title:               scatterings from the Purple Crow Lidar
 #tagline:             from the Purple Crow Lidar
+description:         Happenings at the The University of Western Ontario's Purple Crow Lidar for atmospheric and environmental science.
 url:                 http://pclblog.bobsica.com
 paginate:            1
 baseurl:             ""
@@ -16,15 +18,24 @@ sass:
   style:            :compressed
 
 # About/contact
-author:
-  name:              Bob Sica
-  url:               https://twitter.com/purplecrowlidar
+author:              purplecrowlidar
+name:              Bob Sica
+#url:              http://blog.purplecrowlidar.ca
+twitter:
+    username:         purplecrowlidar
 #  email:             markdotto@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
 repo:                https://github.com/bobsica/pclblog
+logo:                https://www.dropbox.com/s/pebjey7sa0jvnka/FloodCrow.png?raw=1
+social:
+    name: Bob Sica
+    links:
+        - https://www.twitter.com/purplecrowlidar
+        - https://www.facebook.com/purplecrowlidar
+        
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
@@ -35,7 +46,7 @@ pages_list:
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
-  - jekyll-redirect-from
   - jekyll-paginate
   - jemoji
-
+  - jekyll-seo-tag
+  
