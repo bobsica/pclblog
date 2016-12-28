@@ -9,7 +9,7 @@ published: true
 
 ![Cronyn ceilometer measurements on 19-20 Dec 2016.](http://pclblog.bobsica.com/public/19-20decCeilo-ann.png)
 
-# New Blog, New ceilometer
+## New Blog, New ceilometer
 
 * Hope you like the new blog look. Thanks to the awesome github community getting away from a commercial service and to a light, fast markdown blog was easy peasy. Thanks world.
 
@@ -23,6 +23,6 @@ published: true
 
 3. We will be collaborating with the Remote Sensing Group [at MeteoSwiss](http://www.meteoswiss.admin.ch/home/measurement-and-forecasting-systems/atmosphere/lidar-and-ceilometers.html) to do some way cool studies with chains of these instruments. More later.
 
-4. They look like "plucky droids". I like that.
+4. It looks like a "plucky droid". I like that.
 
 ![Our plucky Lufft Nimbus Ceilometer, with Crows Ali and Jeff.](http://pclblog.bobsica.com/public/aliJeffCeilo.jpg)
