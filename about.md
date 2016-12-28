@@ -5,7 +5,7 @@ comments: false
 author: purplecrowlidar
 ---
 
-![All good stuff ;-)](../public/FloodCrowSmaller.png)
+![All good stuff ;-)](http://pclblog.bobsica.com/public/FloodCrowSmaller.png)
 
 27 Dec 2016
 
@@ -29,6 +29,7 @@ LonOnt
 
 Built on the back of giants:
 
+* Move to [GitHub Pages](https://pages.github.com) inspired by a fave science blog [Pauline's perambulations and permutations](http://pbarmby.github.io).
 * Base template is poole: [https://github.com/poole/poole/](https://github.com/poole/poole/). 
 * Many thanks to Joshua Lande who's [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole) made a good thing even better.
 
