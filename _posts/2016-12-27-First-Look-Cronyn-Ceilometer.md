@@ -7,6 +7,9 @@ image: http://pclblog.bobsica.com/public/19-20decCeilo-ann.png
 published: true
 ---
 
+# Blog has moved! (15 Jan 2023)
+New science stuff in [My Bobiverse is here.](https://bobsica.com) 
+
 ![Cronyn ceilometer measurements on 19-20 Dec 2016.](http://pclblog.bobsica.com/public/19-20decCeilo-ann.png)
 
 ## New Blog, New ceilometer
